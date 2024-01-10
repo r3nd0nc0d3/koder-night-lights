@@ -1,0 +1,26 @@
+{
+  "name": "kode-night-light",
+  "displayName": "Kode Night lights",
+  "description": "An amazing theme inspired by Bladerunner  palette for coding like real futuristic agent!",
+  "version": "0.0.1",
+  "publisher": "KodeNightLight",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r3nd0nc0d3/koder-night-lights/blob/main/github/themes/Kode-Dark-Theme-color-theme.json"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kode Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kode-Dark-Theme-color-theme.json"
+      }
+    ]
+  }
+}
