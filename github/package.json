@@ -6,7 +6,7 @@
   "publisher": "KodeNightLight",
   "repository": {
     "type": "git",
-    "url": "https://github.com/r3nd0nc0d3/theme-dark-vscode/tree/main/github/themes"
+    "url": "https://github.com/r3nd0nc0d3/koder-night-lights/blob/main/github/themes/Kode-Dark-Theme-color-theme.json"
   },
   "engines": {
     "vscode": "^1.85.0"
